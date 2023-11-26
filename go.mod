@@ -3,7 +3,7 @@ module github.com/edgesets/edgehub-ssapi-go
 go 1.21.1
 
 require (
-	github.com/edgesets/edgehub-protocol v0.0.7
+	github.com/edgesets/edgehub-protocol v0.0.8
 	github.com/golang/protobuf v1.5.3
 	github.com/google/uuid v1.3.1
 	github.com/stretchr/testify v1.8.4
@@ -18,7 +18,6 @@ require (
 	github.com/gorilla/mux v1.8.0 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	go.uber.org/multierr v1.11.0 // indirect
 	golang.org/x/net v0.14.0 // indirect
 	golang.org/x/sys v0.11.0 // indirect
 	golang.org/x/text v0.12.0 // indirect
